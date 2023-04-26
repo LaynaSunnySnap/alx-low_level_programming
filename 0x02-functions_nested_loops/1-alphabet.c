@@ -3,6 +3,7 @@
 /**
  * main - Entry level
  *
+ * print_alphabet: print alphabets
  * Return: void
  */
 
