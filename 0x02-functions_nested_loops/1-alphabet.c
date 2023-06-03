@@ -2,8 +2,10 @@
 
 /**
  * main - Entry level
- *
- * print_alphabet: print alphabets
+ * print_alphabet: prints alphabets in lowercase followed by a new line
+ * print_alphabet - prints alphabets in lowercase followed by a new line
+ * 
+ * print_alphabet - print alphabets
  * Return: void
  */
 
