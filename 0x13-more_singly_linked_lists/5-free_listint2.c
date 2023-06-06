@@ -1,8 +1,8 @@
 #include "lists.h"
 
 /**
- * free_listint2 - frees a linked list
- * @head: pointer to the listint_t list to be freed
+ * free_listint2 - a linked list is freed by it
+ * @head: pointer to the listint_t list that will be freed
  */
 void free_listint2(listint_t **head)
 {
